@@ -1,1 +1,1 @@
-This is a test of checking in and out of GitHub.
+This is a test of checking in and out of GitHub. Will I be able to merge this?  I think so.
